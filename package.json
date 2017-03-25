@@ -146,6 +146,7 @@
     "express": "^4.14.0",
     "history": "^4.5.1",
     "isomorphic-fetch": "^2.2.1",
+    "material-ui": "^0.17.1",
     "react": "~15.4.2",
     "react-art": "^0.15.1",
     "react-css-modules": "^4.1.0",
